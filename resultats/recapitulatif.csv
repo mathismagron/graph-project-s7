@@ -1,0 +1,10 @@
+Densité,Portée,Noeuds,Arêtes,Densité graphe,Degré moyen,Connexe,Composantes
+low,courte (20 km),100,90,0.0182,1.80,Non,39
+low,moyenne (40 km),100,571,0.1154,11.42,Non,8
+low,longue (60 km),100,1471,0.2972,29.42,Non,4
+avg,courte (20 km),100,173,0.0349,3.46,Non,22
+avg,moyenne (40 km),100,842,0.1701,16.84,Non,4
+avg,longue (60 km),100,1782,0.3600,35.64,Non,2
+high,courte (20 km),100,186,0.0376,3.72,Non,23
+high,moyenne (40 km),100,934,0.1887,18.68,Non,4
+high,longue (60 km),100,1870,0.3778,37.40,Non,2
