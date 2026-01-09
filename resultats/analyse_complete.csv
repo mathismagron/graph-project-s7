@@ -1,0 +1,10 @@
+Densité,Portée,Noeuds,Arêtes,Degré moyen,Degré max,Clustering moyen,Nb cliques,Taille max clique,Nb composantes,Plus grande comp.,Chemin moyen,Diamètre
+low,courte (20km),100,90,1.80,9,0.2261,77,5,39,31,3.80,10
+low,moyenne (40km),100,571,11.42,29,0.5205,147,12,8,91,2.90,9
+low,longue (60km),100,1471,29.42,56,0.6724,301,24,4,96,1.92,5
+avg,courte (20km),100,173,3.46,13,0.3637,83,7,22,63,5.17,16
+avg,moyenne (40km),100,842,16.84,35,0.6370,171,16,4,97,2.77,9
+avg,longue (60km),100,1782,35.64,57,0.7280,258,27,2,99,1.92,6
+high,courte (20km),100,186,3.72,13,0.3981,85,5,23,61,4.09,11
+high,moyenne (40km),100,934,18.68,38,0.6651,139,21,4,96,2.81,9
+high,longue (60km),100,1870,37.40,59,0.7281,200,31,2,98,1.98,8
